@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <odoo>
   <data>
-   
+   <!-- test -->
     <!-- type d'achat -->
     <record model="purchase.type" id="type_purchase_local_stored">
         <field name="name">Achats locaux stockés</field>
